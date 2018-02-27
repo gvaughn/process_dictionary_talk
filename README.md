@@ -1,7 +1,7 @@
 # Let's Talk Process Dictionary
 
-This the code that was shown during the talk at Lonestar ElixirConf 2018
-(link to slides coming soon)
+This the code that was shown during the talk, [Let's Talk Process Dictionary](
+https://speakerdeck.com/gvaughn/lets-talk-process-dictionary) at Lonestar ElixirConf 2018
 
 The primary parts you might be interested in are:
 
